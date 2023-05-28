@@ -58,4 +58,4 @@ jobs:
         with:
           context: ./backend/
           push: true
-          tags: g1zgy-hub/taski_backend:latest
+          tags: g1zgy/taski_backend:latest
